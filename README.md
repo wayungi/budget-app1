@@ -53,9 +53,9 @@
 
 👤 **Mumenya Nyamu** 🧑🏻‍💻
 
-- GitHub: [@Nyame-Wolf](https://github.com/Nyame-Wolf)
-- Twitter: [@mumenyam](https://twitter.com/Mumenyam)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mumenya-nyamu-software-engineer/)
+- GitHub: [@wayungi](https://github.com/wayungi)
+- Twitter: [@FrancisWayungi](https://twitter.com/FrancisWayungi)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/francis-wayungi)
 
 
 
